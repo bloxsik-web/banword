@@ -1,5 +1,5 @@
-# banword
+BanWord - Фильтр плохих слов для Minecraft
+![Minecraft](https://img.shields.io/badge/Minecraft-1.16.5+-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
-https://img.shields.io/badge/Minecraft-1.16.5+-green
-https://img.shields.io/badge/License-MIT-blue
-https://img.shields.io/badge/Version-1.0.0-orange
+Простой и эффективный плагин для фильтрации запрещенных слов в чате Minecraft сервера.
